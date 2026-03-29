@@ -3,6 +3,7 @@
 ## Subsection
 
 Exciting documentation in here.
+NOw with updated theme
 Let's make a list (empty surrounding lines required):
 
 - item 1
